@@ -32,6 +32,25 @@ The project is ideal for learning how to:
 - Built-in libraries: `time`
 
 ---
+
+## Installation
+
+1. Clone this repository or download the files to your local machine.
+2. Make sure you have Python 3.x installed. You can check by running:
+ ```bash
+ python --version
+ ```
+3. Navigate to the directory where the script is located:
+ ```bash
+ path/to/your/directory
+ ```
+4. Run the script using Python:
+```bash
+python hotel_management.py
+```
+
+---
+
 ## Sample Output
 
 ```bash
